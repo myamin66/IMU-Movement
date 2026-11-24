@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+Submission/
+*.zip
+~$*
+# original files from the professor (copies are in data/ and docs/)
+/MT_0080001528_*.txt
+/MTi-630.pdf
+/accx-y-z.png
+/IMG_3636.png
